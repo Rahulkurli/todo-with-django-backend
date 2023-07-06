@@ -1,0 +1,9 @@
+## BACKEND
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+venv/
+__pycache__/
+.env
